@@ -2,7 +2,7 @@
 
 ## Ruby
 
-[GitHub's Ruby Style Guide](https://github.com/styleguide/ruby) has some pretty
+The [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide) has some pretty
 great recommendations, but here is where we differ a bit:
 
 ### When to use `{..}` vs `do..end`
